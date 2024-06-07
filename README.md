@@ -7,6 +7,7 @@
 
 <img width="446" alt="Screenshot 2024-06-07 101035" src="https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/f5c57af0-5260-4320-a231-e161fa508677">
 
+`
 import requests
 
 domain_name = "YOUR_domainName_PARAMETER"
@@ -18,4 +19,4 @@ response = requests.get(url, headers=headers)
 
 data = response.json()
 print(data)
-
+`
