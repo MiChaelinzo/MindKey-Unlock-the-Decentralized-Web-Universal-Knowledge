@@ -1,6 +1,8 @@
 # MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge
 
-![Gemini_Generated_Image_bbvecbbvecbbvecb](https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/31a14aa6-7484-4a84-96a3-5ff2802da72e)
+![Gemini_Generated_Image_wsuzmtwsuzmtwsuz](https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/7f284f79-6e6a-4c54-b7c8-af4e935ddc8d)
+
+![Gemini_Generated_Image_l48qlwl48qlwl48q](https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/8dab71a6-0f30-4538-953f-f8b9812aeec3)
 
 
 # Example of Get Records for a Domain
