@@ -9,6 +9,15 @@
 
 <img width="446" alt="Screenshot 2024-06-07 101035" src="https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/f5c57af0-5260-4320-a231-e161fa508677">
 
+# Login with Unstoppable Domain Flowchart
+
+![login-with-unstoppable-flow-revised](https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/31803eb3-3eb0-41b9-81fc-747a2261d939)
+
+# UI of UD
+
+<img width="592" alt="login-paid-domain-search" src="https://github.com/MiChaelinzo/MindKey-Unlock-the-Decentralized-Web-Universal-Knowledge/assets/68110223/279133f7-ee90-4eb9-9ab7-5003f9c27e09">
+
+
 ```
 import requests
 
