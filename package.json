@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^2.3.0",
-    "compression": "^1.8.1",
+    "compression": "^1.8.2",
     "express": "^5.2.1",
     "helmet": "^3.23.3",
     "morgan": "^1.12.1",
