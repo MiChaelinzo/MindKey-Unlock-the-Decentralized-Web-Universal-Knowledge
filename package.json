@@ -22,7 +22,7 @@
   "author": "Omodaka9375",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^2.3.0",
+    "body-parser": "^2.4.0",
     "compression": "^1.8.2",
     "express": "^5.2.1",
     "helmet": "^3.23.3",
